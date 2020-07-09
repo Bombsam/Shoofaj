@@ -1,0 +1,57 @@
+body {
+  direction: rtl;
+}
+
+i {
+  margin: 0 40px;
+}
+/* navbar */
+.navbar-nav {
+  margin: 0 auto;
+}
+ .nav-item {
+   text-align: center;
+   margin-left: 70px;
+ }
+
+/* header */
+.productsAd {
+  height: auto;
+  width: 65%;
+  margin: 0 auto;
+  margin-top: 120px;
+  text-align: right;
+}
+
+.servicesAd {
+  width: 65%;
+  margin: 0 auto;
+  height: 80px;
+  margin-top: 80px;
+  text-align: right;
+}
+
+
+ .rad-image1 {
+   float: left;
+   margin-right: 40px;
+   max-width: 100%;
+ }
+ .rad-image2 {
+   float: right;
+   margin-left: 40px;
+   max-width: 100%;
+ }
+
+/* contact us */
+.contact-div {
+  margin: 100px 0 30px;
+  width: 100%;
+  text-align: center;
+}
+/* border div */
+.border-div {
+  margin: 70px auto 0;
+  width: 100px;
+  border-top: 15px  dotted #e4f9ff;
+}
