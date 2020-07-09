@@ -9,6 +9,3 @@ app.use(bodyParser.urlencoded({
 }));
 
 app.use(express.static("public"));
-app.get("index.html", function(req, res) {
-  res.redirect("/");
-});
