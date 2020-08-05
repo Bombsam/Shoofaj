@@ -2,9 +2,7 @@ body {
   direction: rtl;
 }
 
-i {
-  margin: 0 40px;
-}
+
 /* navbar */
 .navbar-nav {
   margin: 0 auto;
@@ -49,9 +47,48 @@ i {
   width: 100%;
   text-align: center;
 }
+
+.icon {
+  margin: 25px auto;
+}
+
+.contact-info-divs {
+  margin: 0 auto;
+  line-height: 2;
+  text-align: center;
+}
+/* Footer */
+#footer {
+  text-align: center;
+}
+.cpright {
+  margin-top: 20px;
+}
+.foot {
+  padding: 5% 15%;
+}
+ .ic {
+   padding: 10px;
+ }
 /* border div */
 .border-div {
   margin: 70px auto 0;
   width: 100px;
   border-top: 15px  dotted #e4f9ff;
+}
+
+/* Products Page */
+.row {
+  margin: 100px auto;
+  text-align: right;
+}
+
+.item {
+  margin-bottom: 30px;
+}
+.image-container {
+  width: 180px;
+  height: 210px;
+  margin: 0 auto;
+
 }
